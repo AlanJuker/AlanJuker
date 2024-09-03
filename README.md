@@ -1,4 +1,6 @@
 ## Hi there 👋
+🔭 I am a passionate and dedicated Full Stack programmer, committed to continuous learning and always looking to improve my skills.
+📫 How to reach me: alan4630@gmail.com
 
 <!--
 **AlanJuker/AlanJuker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
