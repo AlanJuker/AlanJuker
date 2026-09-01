@@ -1,35 +1,39 @@
-# Hi there 👋
+## Alan Guijarro
 
-I'm **Alan Guijarro**, a passionate Full Stack developer dedicated to continuous learning and improving my skills. Welcome to my GitHub profile!
+Software engineer with 4+ years shipping production systems in .NET and Angular,
+now moving into **applied artificial intelligence**. Starting an MSc in Computer
+Science — Applied AI, and building toward machine learning engineering roles.
 
-## 🚀 Technologies & Tools
+Currently an electoral systems and IT specialist at Ecuador's National Electoral
+Council, where I build internal tooling that automates processes people used to
+run by hand in spreadsheets.
 
-**Front-end:**
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) | ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |
-| --- | --- | --- | --- | --- | --- |
+---
 
-**Back-end:**
-| ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) | ![.NET Core](https://img.shields.io/badge/-NET_Core-512BD4?logo=dotnet&logoColor=white) | ![.NET Framework](https://img.shields.io/badge/-NET_Framework-9B4F96?logo=dotnet&logoColor=white) |
-| --- | --- | --- |
+### What I'm working on
 
-**Database:**
-| ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) | ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white) | ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white) |
-| --- | --- | --- |
+- **Computer vision** — face liveness detection (anti-spoofing) running fully in
+  the browser with TensorFlow.js: randomized blink / smile / head-turn challenges
+  that reject printed photos and replay attacks.
+- **LLM applications** — structured-output pipelines that turn free-form input
+  into validated, typed data, with rule-based fallbacks when the model is
+  unavailable.
+- **Process automation** — Python services that parse messy real-world documents
+  (Excel matrices, timesheet PDFs) into auditable reports.
 
-**Version Control:**
-| ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) | ![BitBucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white) |
-| --- | --- | --- |
+### Tools I reach for
 
-**Cloud & DevOps:**
-| ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0083D1?logo=azuredevops&logoColor=white) |
-| --- |
+**Languages** · TypeScript · Python · C# · Swift · SQL
+**AI / ML** · TensorFlow.js · scikit-learn · Anthropic & OpenAI APIs · structured outputs
+**Web** · Angular · React · Next.js · FastAPI · .NET Core
+**Data & infra** · PostgreSQL · SQL Server · Docker · Railway · GitHub Actions
 
-## 🔭 Current Focus
+### Background
 
-- Building scalable web applications with modern technologies
-- Enhancing my skills in cloud computing and DevOps practices
+- MSc Software Engineering and Computer Systems — Universidad Internacional de La Rioja (2024)
+- BSc Information Systems Engineering — Pontificia Universidad Católica del Ecuador (2023)
+- Spanish (native) · English (C1)
 
-## 📫 Get in Touch
+### Reach me
 
-- **Email:** [alan4630@gmail.com](mailto:alan4630@gmail.com)
-- **LinkedIn:** [alan-guijarro-pomboza](https://www.linkedin.com/in/alan-guijarro-pomboza)
+[LinkedIn](https://www.linkedin.com/in/alan-guijarro-pomboza) · [alan4630@gmail.com](mailto:alan4630@gmail.com)
