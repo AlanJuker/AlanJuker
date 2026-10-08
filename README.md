@@ -1,6 +1,6 @@
 ## Alan Guijarro
 
-Software engineer with 4+ years shipping production systems in .NET and Angular,
+Software engineer with 3+ years shipping production systems in .NET and Angular,
 now moving into **applied artificial intelligence**. Starting an MSc in Computer
 Science — Applied AI, and building toward machine learning engineering roles.
 
