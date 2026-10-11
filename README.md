@@ -12,7 +12,7 @@ run by hand in spreadsheets.
 
 ### What I'm working on
 
-- **Computer vision** — face liveness detection (anti-spoofing) running fully in
+- **Computer vision** — [face liveness detection](https://github.com/AlanJuker/face-liveness-detection) (anti-spoofing) running fully in
   the browser with TensorFlow.js: randomized blink / smile / head-turn challenges
   that reject printed photos and replay attacks.
 - **LLM applications** — structured-output pipelines that turn free-form input
@@ -20,6 +20,13 @@ run by hand in spreadsheets.
   unavailable.
 - **Process automation** — Python services that parse messy real-world documents
   (Excel matrices, timesheet PDFs) into auditable reports.
+
+### Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [face-liveness-detection](https://github.com/AlanJuker/face-liveness-detection) | In-browser anti-spoofing with randomized blink, smile and head-turn challenges | Angular · TensorFlow.js · Express · PostgreSQL |
+| [forma-fusion-web](https://github.com/AlanJuker/forma-fusion-web) | Production site and admin panel for a design and construction studio, built with clean architecture | Next.js · Prisma · PostgreSQL · Railway |
 
 ### Tools I reach for
 
