@@ -15,7 +15,7 @@ run by hand in spreadsheets.
 - **Computer vision** — [face liveness detection](https://github.com/AlanJuker/face-liveness-detection) (anti-spoofing) running fully in
   the browser with TensorFlow.js: randomized blink / smile / head-turn challenges
   that reject printed photos and replay attacks.
-- **LLM applications** — structured-output pipelines that turn free-form input
+- **LLM applications** — [structured-output pipelines](https://github.com/AlanJuker/rosati-lead-intelligence) that turn free-form input
   into validated, typed data, with rule-based fallbacks when the model is
   unavailable.
 - **Process automation** — Python services that parse messy real-world documents
@@ -26,6 +26,7 @@ run by hand in spreadsheets.
 | Project | What it is | Stack |
 |---|---|---|
 | [face-liveness-detection](https://github.com/AlanJuker/face-liveness-detection) | In-browser anti-spoofing with randomized blink, smile and head-turn challenges | Angular · TensorFlow.js · Express · PostgreSQL |
+| [rosati-lead-intelligence](https://github.com/AlanJuker/rosati-lead-intelligence) | BANT lead qualification with Claude structured outputs, a rule-based fallback, and ClickUp routing | Python · FastAPI · PostgreSQL · n8n |
 | [forma-fusion-web](https://github.com/AlanJuker/forma-fusion-web) | Production site and admin panel for a design and construction studio, built with clean architecture | Next.js · Prisma · PostgreSQL · Railway |
 
 ### Tools I reach for
