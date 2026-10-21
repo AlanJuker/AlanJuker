@@ -6,8 +6,9 @@ AI and full-stack engineer with 3 years shipping production systems, now complet
 From 2023 to 2026 I was a full-stack developer at Ecuador's National Electoral Council (CNE),
 building systems used nationwide: political-party finance accounting, the candidacy
 compliance simulator, the *Voto Informado* candidate-proposals site, and online electoral
-address changes with anti-spoofing identity verification. Most recently I built Databricks
-data pipelines and AI solutions for a US client at Stimulus, Inc.
+address changes with anti-spoofing identity verification. Most recently, at Stimulus, Inc., I built
+Databricks data pipelines in Python and SQL and AI solutions with Meta Llama models and MLflow
+for a US client.
 
 ---
 
@@ -36,7 +37,7 @@ data pipelines and AI solutions for a US client at Stimulus, Inc.
 ### Tools I reach for
 
 **Languages** · TypeScript · Python · C# · Swift · SQL
-**AI / ML** · TensorFlow.js · scikit-learn · Anthropic & OpenAI APIs · structured outputs
+**AI / ML** · TensorFlow.js · scikit-learn · Anthropic & OpenAI APIs · Meta Llama · MLflow · structured outputs
 **Web** · Angular · React · Next.js · FastAPI · .NET 6 / 8
 **Data & infra** · Databricks · Oracle 19c (PL/SQL) · PostgreSQL · SQL Server · Docker · Azure DevOps · GitHub Actions
 
