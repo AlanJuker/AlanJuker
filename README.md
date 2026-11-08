@@ -45,7 +45,6 @@ pipelines in Python and SQL and AI solutions with Meta Llama models and MLflow f
 ### Background
 
 - Master of Computer Science, Applied AI — University of Niagara Falls Canada (in progress)
-- Master's in Software Engineering and Computer Systems — Universidad Internacional de La Rioja (2024)
 - Bachelor's in Systems Engineering — Pontificia Universidad Católica del Ecuador (2023)
 
 ### Reach me
