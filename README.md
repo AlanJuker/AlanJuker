@@ -23,11 +23,6 @@ shipping production systems at Ecuador's National Electoral Council (CNE).
 | [rosati-lead-intelligence](https://github.com/AlanJuker/rosati-lead-intelligence) | BANT lead qualification with Claude structured outputs, a rule-based fallback, and ClickUp routing | Python · FastAPI · PostgreSQL · n8n |
 | [forma-fusion-web](https://github.com/AlanJuker/forma-fusion-web) | Production site and admin panel for a design and construction studio, built with clean architecture | Next.js · Prisma · PostgreSQL · Railway |
 
-### Hackathons
-
-- **Game Jam Ecuador 2023**: a Unity game built over one weekend with a team of seven. I wrote the parallax
-  background and the camera shake.
-
 ### Before this
 
 From 2023 to 2026 I was a full-stack developer at the CNE, building systems used nationwide: political-party
