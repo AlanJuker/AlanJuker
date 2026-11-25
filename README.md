@@ -15,6 +15,10 @@ shipping production systems at Ecuador's National Electoral Council (CNE).
 - **[noc-noc](https://github.com/AlanJuker/noc-noc)**: newcomers to Canada must name their NOC occupation code
   for Express Entry and work permits, and job titles rarely match the official ones. noc-noc finds it from a
   job title: the right code is in its first five answers for 93.6% of 5,468 held-out official titles.
+- **[handctl](https://github.com/AlanJuker/handctl)**: scroll and switch macOS desktops with hand gestures
+  from the webcam. MediaPipe finds the hand; a tested gesture engine turns a pinch into smooth scrolling and an
+  open-palm swipe into Ctrl+←/→. I tuned it by replaying 50 minutes of my own use through the engine, which
+  took swipes caught from 108 of 239 to 150.
 
 ### More projects
 
@@ -33,7 +37,7 @@ pipelines in Python and SQL and AI solutions with Meta Llama models and MLflow f
 ### Tools I reach for
 
 - **Languages** · Python · TypeScript · C# · Swift · SQL
-- **AI / ML** · scikit-learn · pandas · embeddings · Anthropic & OpenAI APIs · Meta Llama · MLflow · structured outputs
+- **AI / ML** · scikit-learn · pandas · MediaPipe · OpenCV · embeddings · Anthropic & OpenAI APIs · Meta Llama · MLflow · structured outputs
 - **Web** · FastAPI · React · Angular · Next.js · .NET 6 / 8
 - **Data & infra** · PostgreSQL · Databricks · Oracle 19c (PL/SQL) · SQL Server · Docker · Azure DevOps · GitHub Actions
 
